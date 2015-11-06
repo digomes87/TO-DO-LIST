@@ -13,6 +13,7 @@
 		F5E602881B9C65A600C95C63 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5E602871B9C65A600C95C63 /* Images.xcassets */; };
 		F5E6028B1B9C65A600C95C63 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5E602891B9C65A600C95C63 /* LaunchScreen.xib */; };
 		F5E602971B9C65A600C95C63 /* TO_DO_LISTTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E602961B9C65A600C95C63 /* TO_DO_LISTTests.swift */; };
+		F5E602A11B9C672800C95C63 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5E602A01B9C672800C95C63 /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		F5E602901B9C65A600C95C63 /* TO-DO-LISTTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TO-DO-LISTTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5E602951B9C65A600C95C63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F5E602961B9C65A600C95C63 /* TO_DO_LISTTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TO_DO_LISTTests.swift; sourceTree = "<group>"; };
+		F5E602A01B9C672800C95C63 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				F5E602801B9C65A600C95C63 /* AppDelegate.swift */,
+				F5E602A01B9C672800C95C63 /* Storyboard.storyboard */,
 				F5E602821B9C65A600C95C63 /* ViewController.swift */,
 				F5E602841B9C65A600C95C63 /* Main.storyboard */,
 				F5E602871B9C65A600C95C63 /* Images.xcassets */,
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5E602861B9C65A600C95C63 /* Main.storyboard in Resources */,
+				F5E602A11B9C672800C95C63 /* Storyboard.storyboard in Resources */,
 				F5E6028B1B9C65A600C95C63 /* LaunchScreen.xib in Resources */,
 				F5E602881B9C65A600C95C63 /* Images.xcassets in Resources */,
 			);
